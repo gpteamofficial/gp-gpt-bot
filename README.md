@@ -16,7 +16,7 @@
   - Does NOT provide external programming help.
   - Stays compact unless user requests details.
   - Follows GP Team tone, formatting, identity, and rules.
-
+  - Yoy can edit the var: GP_TEAM_KNOWLEDGE, in bot.py to customize the bot 
 ---
 
 ## 🔒 Safety  
